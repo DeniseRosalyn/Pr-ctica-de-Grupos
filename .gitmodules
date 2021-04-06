@@ -1,3 +1,6 @@
 [submodule "Trabajo_Final_D"]
 	path = Trabajo_Final_D
 	url = https://github.com/adriana10it/Trabajo_Final_D.git
+[submodule "LP2-grupo"]
+	path = LP2-grupo
+	url = https://github.com/Joseuribe1245/LP2-grupo.git
