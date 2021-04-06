@@ -1,2 +1,2 @@
-# Pr-ctica-de-Grupos
-Subir los trabajos grupales
+# Practica-de-Grupos
+_Subir los trabajos grupales_
