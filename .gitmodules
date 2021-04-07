@@ -4,3 +4,6 @@
 [submodule "LP2-grupo"]
 	path = LP2-grupo
 	url = https://github.com/Joseuribe1245/LP2-grupo.git
+[submodule "Trabajo-en-aula"]
+	path = Trabajo-en-aula
+	url = https://github.com/RodrigoCharun/Trabajo-en-aula
